@@ -6,7 +6,10 @@ Self-learning journey to become a better developer <br>
 
 ### Goals:
 **_1. Master fundamental programming concepts_** **[Ongoing]**  <br>
-  - Started learning Java
+  - [ ] Started learning Java
+    - Resources availble here: [Java Resources](java/README.md)
+    - Java Guide
+
 2. Build projects to solidify understanding <br>
 3. Learn and implement modern web development technologies <br>
 4. Contribute to open-source projects <br>
