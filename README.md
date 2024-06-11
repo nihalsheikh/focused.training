@@ -6,7 +6,7 @@ Self-learning journey to become a better developer <br>
 
 ### Goals:
 **_1. Master fundamental programming concepts_** **[Ongoing]**  <br>
-  - [ ] Started CS50 course.
+  - [ ] Started CS50 course: [CS50](https://github.com/nihalsheikh/cs50/blob/main/README.md)
   - [ ] Learn Java: (on hold for now)
     - Resources availble here: [Java Resources](java/README.md)
     - Java Guide
